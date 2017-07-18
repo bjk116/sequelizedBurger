@@ -1,2 +1,2 @@
-# sequelizedBurger
-Eat da Burger with Sequelize
+# burger
+Eat Da Burger app, using MySQL, Node, Express, Handlebars, A homemade ORM, and MVC design
